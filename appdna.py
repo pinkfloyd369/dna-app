@@ -10,7 +10,7 @@ import altair as alt
 
 st.write("""
 # DNA Nucleotide Count Web App
-This app counts the nucleotide composition of query DNA \n special mention Dr.aishwarya!
+This app counts the nucleotide composition of query DNA \n 
 
 ***
 """)
